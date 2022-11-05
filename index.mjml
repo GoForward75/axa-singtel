@@ -1,0 +1,163 @@
+<mjml>
+   <mj-head>
+      <mj-title></mj-title>
+      <mj-style>
+         @media all and (max-width: 480px) {
+            .align div  {
+               text-align: center!important;
+            }
+         }
+      
+      </mj-style>
+   </mj-head>
+
+      <!-- Start Content -->
+      
+   <mj-body background-color="#d7e1e9">
+   <!-- Preheader -->
+      <mj-section  padding="0" background-color="#343c3f">
+         <mj-column>
+            <mj-text color="#ffffff" align="center" font-size="13px" font-family="Arial">
+               <a href="www.example.com" style="text-decoration:none; color:#ffffff;">Click here to view this email in your browswer</a>
+               </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <!-- Header  -->
+      
+      <mj-section padding="0" background-color="#ffffff">
+       <mj-group>
+         
+        <mj-column width="50%">
+            <mj-image src="https://i.ibb.co/DztBv04/logo-axa.png" alt="axa logo"  align="left" width="71px" height="71px"  padding="20px"/>
+         </mj-column>
+        
+         <mj-column width="50%">
+            <mj-image src="https://i.ibb.co/rpFfv1d/logo-singtel.png" alt="singtel logo" width="110px" height="71px" padding="20px" align="right"/>
+         </mj-column>
+
+       </mj-group>
+      </mj-section>
+       
+
+      <!-- Banner -->
+      <mj-section padding="0" background-color="#ffffff">
+      <mj-column width="600px">
+         <mj-image src="https://i.ibb.co/TWpWrRG/banner-axa-travel-insurance.png" alt="Happy family at the beach" padding="0"/>
+      </mj-column>
+      </mj-section>
+
+      <!-- Body-text -->
+      <mj-section background-color="navy" padding-top="60px">
+         <mj-column width="590px"     padding-right="20px" padding-left="20px">
+            <mj-text font-size="37px" font-family="Georgia" color="#ffffff" align="center">
+               Pay Less, Worry Less
+            </mj-text>
+            <mj-text font-size="16px" font-family="Arial" color="#ffffff" align="center" line-height="22px">
+               This Great Singapore Sale, AXA SmartTraveller Single Trip Travel Insurance
+               lets you explore the world with a greater peace of mind
+               at 50% off until 30 June 2023.
+            </mj-text>
+            <mj-button href="www.example.com" color="#ffffff" background-color="navy" border="3px solid white" inner-padding="9px 30px" font-size="16px">
+               BUY NOW
+            </mj-button>
+         </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#f5f5f5" padding-top="0px">
+         <mj-column padding-top="30px" width="45%">
+            <mj-image src="https://i.ibb.co/yPn7ywy/icon-globe.png" alt="the globe of the world"width="263px" height="240px" />
+         </mj-column>
+         <mj-column padding-top="30px" css-class="align"  width="55%">
+            <mj-text padding-right="10px" padding-left="10px" font-size="32px" color="#2e2e2e" font-family="Georgia, Arial" align="left" line-height="30px">
+              <strong>Get up to 40%* Off Annual Travel Insurance. Singtel Users Get Additional 8%^ Off!</strong>
+
+            </mj-text>
+            <mj-text font-size="18px" color="#2e2e2e" font-family="Arial" align="left" line-height="24px">
+            Live out of your suitcase with AXA SmartTraveller Annual Travel Insurance. Singtel users enjoy an exclusive additional 8% off with our promo code.
+            </mj-text>
+            <mj-image src="https://i.ibb.co/q093d8j/code.png" alt="discount code" width="252px" height="120px" align="left" />
+            <mj-text font-family="Arial" font-size="18px" align="left" line-height="24px" padding-top="10px" padding-bottom="10px">
+               Promotion lasts until 20 December 2022.
+            </mj-text>
+           
+         </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#f5f5f5" >
+         <mj-column width="100%">
+            <mj-image src="https://i.ibb.co/RQPfcM8/banner-axa-smart-home.png" alt="smart home" padding="0" />
+         </mj-column>
+      </mj-section>
+      <mj-section background-color="#f5f5f5">
+         <mj-column  width="100%">
+         <mj-text font-size="32px" color="#2e2e2e" font-weight="bold" align="center" font-family="Georgia, Arial">
+            AXA SmartHome Insurance
+         </mj-text>
+         <mj-text font-family="Arial" font-size="16px" align="center">
+            <p>No matter where you go, there's no place like home.</p>
+            <p>Promotion lasts until 30 December 2022.</p>
+            
+         </mj-text>
+         <mj-button href="www.example.com" color="navy" background-color="white" border="3px solid navy" inner-padding="9px 50px" font-size="16px" align="center">
+               BUY NOW
+            </mj-button>
+            
+         </mj-column>
+      </mj-section>
+
+      <!-- footer -->
+      <mj-section background-color="#ffffff">
+         <mj-column padding-left="10px" padding-right="10px" >
+            <mj-text padding-bottom="10px" font-size="13px" font-family="Arial" color="#777777" align="left">
+              
+         <strong>SmartTraveller Promotional Terms & Conditions</strong>
+            </mj-text>
+            <mj-text font-size="12px" font-family="Arial" color="#777777" align="left" line-height="18px">
+                1.	SmartTraveller is underwritten by AXA Insurance Pte Ltd ("AXA") (Company Reg No. 199903512M). <br>
+2.	Enjoy a promotional discount of up to *50% discount (on the Core Benefits premium) until 30 June 2017 when you buy any new Single Trip Plans. The premium for each add-ons remains at $1 per policy. <br>
+3.	Enjoy up to *40% discount (on the Core Benefits premium) and an additional ^8% off with the usage of AXA promo code valid for a limited time period until 20 June 2017 when you buy any Annual Multi Trip Plans. Promo code is valid for use by Singtel customers only and discount, vouchers and privileges are not exchangeable for cash, kind or other goods and services. *This is calculated based on 15% campaign discount after a 30% Family discount (if applicable). The premium for each add-ons remains at $1 per policy. <br>
+4.	Applicable to Singaporeans, Singapore PRs and holders of valid Singapore employment passes, long term visit and student passes. <br>
+5.	This promotion is not valid with any on-going travel discounts, schemes or privileges. <br>
+6.	This promotion is applicable for online purchase only via AXA website at www.axa.com.sg or AXA iConnect (For AXA Intermediary), and exclusively to participating partners. <br>
+7.	All decisions made by AXA Insurance Pte Ltd in connection with this promotion (including the interpretation of terms and conditions of this promotion) shall be final and binding on all parties participating in the promotion. <br>
+8.	AXA reserves the right to change the terms and conditions of this promotion without any prior notice.
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      
+      <mj-section background-color="navy" padding="0">
+         <mj-column width="29%" padding-top="20px">
+            <mj-text font-family="Arial" font-size="13px" color="#ffffff" padding-top="10px" align="center" >
+               <a href="www.google.com" style="color:#ffffff; text-decoration:none;">
+                  WWW.AXA.COM.SG</a>
+            </mj-text>
+         </mj-column>
+
+         <mj-column width="71%" padding-top="20px">
+               <mj-text font-family="Arial"  padding-top="10px" font-size="11px" color="#ffffff" align="center">PRIVACY POLICY © 2022 AXA ALL RIGHTS RESERVED|<a href="www.google.com" style="color:#ffffff; text-decoration:underline;">
+                  UNSUBSCRIBE</a>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <mj-section background-color="navy">
+      <mj-group>
+         <mj-column width="33%">
+         <mj-image href="www.example.com" src="https://i.ibb.co/RcJyzNm/btn-facebook-like.png" alt="facebook" width="72px"  padding="0" />
+         </mj-column>
+         <mj-column width="33%">
+         <mj-image href="www.example.com" src="https://i.ibb.co/ZLsjYLy/btn-linkedin.png" alt="youtube" width="31px" padding="0"/>
+         </mj-column>
+         <mj-column width="33%">
+            <mj-image href="www.example.com"  src="https://i.ibb.co/MhWHMND/btn-youtube.png" alt="linkedin" width="31px" padding="0"/>
+         </mj-column>
+       </mj-group>
+      </mj-section>
+
+   </mj-body>
+
+      <!-- End Content -->
+
+</mjml>
